@@ -1,0 +1,15 @@
+CVS/
+bin/
+target/
+build/
+output/
+node_modules/
+/*/run/
+npm-debug.log
+.npmrc
+packer_cache/
+*.log
+*.bak
+*.md.html
+*.~*
+*._*
